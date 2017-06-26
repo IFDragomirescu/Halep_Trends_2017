@@ -1,0 +1,2 @@
+# Halep_Trends_2017
+The idea of the project is inspired by the course Big Data - Measuring and Predicting Human Behavior with big data.  We want to measure if there is a corellation between Halep's participataions and performances in tournaments (only for 2017) and what often this search-term: Halep appears in the same period.   Practice skills: working with data (extracting data from Internet, writing and reading .csv files in R), working with dates, correlation between variables in a dataframe
